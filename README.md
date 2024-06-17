@@ -13,7 +13,6 @@ Libraries: Only the C++ Standard Library is allowed.
 
 ## Directory Structure
 
-.
 ├── src
 │ ├── main.cpp
 │ ├── DataFrame.cpp
