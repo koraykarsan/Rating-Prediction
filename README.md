@@ -27,20 +27,3 @@ src/main.cpp: The main driver code.
 src/DataFrame.cpp: Implementation of data structures and algorithms.
 
 src/DataFrame.h: Header file for data structures and algorithms.
-
-## Getting Started
-
-Clone the repository:
-
-git clone https://github.com/yourusername/rating-prediction.git
-
-cd rating-prediction
-
-Build the project:
-
-g++ src/main.cpp src/DataFrame.cpp -o rating_prediction
-
-Run the project:
-
-./rating_prediction
-
