@@ -9,7 +9,6 @@ Recommender systems are used to suggest items such as movies, books, or music ba
 
 Programming Language: C++
 Libraries: Only the C++ Standard Library is allowed.
-Team Formation: Up to 3 students per team. Individual work is also allowed but teamwork is encouraged.
 
 ## Directory Structure
 
