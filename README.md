@@ -8,6 +8,7 @@ Recommender systems are used to suggest items such as movies, books, or music ba
 ## Requirements
 
 Programming Language: C++
+
 Libraries: Only the C++ Standard Library is allowed.
 
 ## Directory Structure
@@ -18,16 +19,12 @@ Libraries: Only the C++ Standard Library is allowed.
 │ ├── DataFrame.cpp
 │ ├── DataFrame.h
 ├── README.md
-├── report.pdf
-└── video.mp4
 
 ## Files
 
 src/main.cpp: The main driver code.
 src/DataFrame.cpp: Implementation of data structures and algorithms.
 src/DataFrame.h: Header file for data structures and algorithms.
-report.pdf: Detailed project report explaining the implemented algorithms and data structures.
-video.mp4: Video recording explaining each team member's contribution.
 
 ## Getting Started
 
